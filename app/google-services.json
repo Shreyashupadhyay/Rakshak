@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806370214499",
+    "project_id": "rakshak-35378",
+    "storage_bucket": "rakshak-35378.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806370214499:android:4f2093eced4574add92e56",
+        "android_client_info": {
+          "package_name": "com.newRakshak.sheguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjeaPX07qjunD16zNtYYIczSiy3ECw7ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
