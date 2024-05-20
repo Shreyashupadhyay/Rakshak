@@ -1,16 +1,3 @@
-<div align="center">
-  <img src="https://github.com/Mahmud0808/SheGuard/blob/master/banner.png" width="100%" alt="Banner">
-</div>
-
-# ✨ SheGuard
-SheGuard stands as the quintessential companion for women, ensuring their safety in every circumstance. Through its user-friendly features, it empowers you to swiftly alert your loved ones of your whereabouts and connect with emergency services effortlessly.
-
-## Screenshots 📱
-<div align="center">
-<img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/onboarding.jpg" width="15%" /> <img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/signin.jpg" width="15%" /> <img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/signup.jpg" width="15%" /> <img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/home.jpg" width="15%" />
-<img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/profile.jpg" width="15%" /> <img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/edit_profile.jpg" width="15%" /> <img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/contacts.jpg" width="15%" /> <img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/helpline.jpg" width="15%" />
-<img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/safety_tips.jpg" width="15%" /> <img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/settings.jpg" width="15%" /> <img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/about.jpg" width="15%" />
-</div>
 
 ## Features 🔥
 
@@ -54,14 +41,5 @@ You need to have [Android Studio Giraffe or above](https://developer.android.com
 
 Wanna reach out to me? DM me at 👇
 
-Email: mahmudul15-13791@diu.edu.bd
+Email: shreyashamyt@gmail.com
 
-## Donation 💰
-
-If this project help you reduce time to develop, you can give me a cup of coffee :)
-
-<a href="https://www.buymeacoffee.com/DrDisagree"><img src="https://github.com/Mahmud0808/Iconify/blob/beta/.github/resources/bmc-button.png" width="30%" alt="Buy me a coffee" /></a>
-
-## Credits 🤝
-
-- [icons8.com](https://icons8.com) for the in-app icons.
